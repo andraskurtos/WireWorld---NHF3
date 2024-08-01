@@ -3,8 +3,9 @@ Programozás Alapjai 3 Nagyházi Feladat
 
 this java program was created for a university assignment in the fall semester of 2023.
 it's a recreation of the cellular automaton known as WireWorld, capable of modeling complicated electronic systems using simple mechanics.
-it uses java swing for graphics.
+it uses java swing for graphics, and features junit tests for some of the classes.
 all the documentation written in hungarian can be found in the *documentation* folder.
+
 
 
 **disclaimer:**
